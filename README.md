@@ -1,6 +1,6 @@
 # 7-day-cloud-youtube-starterkit
 
-So you want to start your own cloud/dev YouTube channel? I've collected all my learnings and experience from [building my own](youtube.com/madebygps) into this repo. My goal is to get you from zero to first video published in 7 days, and then for you to have everything you need to keep the momentum going. I believe in you, and I hope you do to.
+So you want to start your own cloud/dev YouTube channel? I've collected all my learnings and experience from [building my own](https://youtube.com/madebygps) into this repo. My goal is to get you from zero to first video published in 7 days, and then for you to have everything you need to keep the momentum going. I believe in you, and I hope you do to.
 
 Also, I'll update this whenever I have more info to share :)
 
@@ -20,7 +20,7 @@ I've setup the format so you can start any day, and take it day by day, until yo
 
 ## Questions?
 
-[tweet me](youtube.com/madebygps)
+[tweet me](https://twitter.com/madebygps)
 
 ## Okay, go get started!
 
