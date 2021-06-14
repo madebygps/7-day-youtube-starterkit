@@ -1,8 +1,7 @@
-# Day 1: Research the topic
+# Day 2: Write the script
 
 ## Time commitment
 
 ## Tools you'll need
 
 ## Steps
-

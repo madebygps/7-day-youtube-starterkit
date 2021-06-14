@@ -1,8 +1,7 @@
-# Day 1: Research the topic
+# Day 7: Rest and recharge
 
 ## Time commitment
 
 ## Tools you'll need
 
 ## Steps
-
