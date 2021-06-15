@@ -6,7 +6,7 @@ Also, I'll update this whenever I have more info to share :)
 
 ## How do I use this repo?
 
-I've setup the format so you can start any day, and take it day by day, until you publish your first video, committing about 2 hours a day, and 1 rest day before you repeat the process, which is day 7.
+I've setup the format so you can start any day, and take it day by day, until you publish your first video, committing about 2 hours a day (depending on your skill level, could be longer or shorter), and 1 rest day before you repeat the process, which is day 7.
 
 | Day | Task            | Time commitment        |
 |-----|-----------------|------------------------|
@@ -18,10 +18,13 @@ I've setup the format so you can start any day, and take it day by day, until yo
 | [6](day6/README.md)   | Publish         | 30 min                 |
 | [7](day7/README.md)   | Rest            | as much as you need :) |
 
-## Questions?
+Each day will have a guide and a worksheet. I've made the worksheets are abstract as possible, so you can continue using them as you go and customize them to your needs. Remember, making a video is way more about planning and getting your idea down, than actually recording and editing.
+
+Each guide will contain tips and tricks to help you with the tasks of the day. These guides are the ones I'll most likely update as I learn new things.
+## Questions
 
 [tweet me](https://twitter.com/madebygps)
 
-## Okay, go get started!
+## Okay, go get started
 
 [Start here](start-here/README.md)

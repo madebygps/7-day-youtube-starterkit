@@ -1,4 +1,4 @@
-# Day 4: Edit
+# Day 4: Record
 
 ## Time commitment
 

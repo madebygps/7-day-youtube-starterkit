@@ -1,4 +1,4 @@
-# Day 3: Record
+# Day 3: Practice the script
 
 ## Time commitment
 
