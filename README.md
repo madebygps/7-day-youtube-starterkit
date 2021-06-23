@@ -10,6 +10,7 @@ I've setup the format so you can start any day, and take it day by day, until yo
 
 | Day | Task            | Time commitment        |
 |-----|-----------------|------------------------|
+| [0](start-here/README.md)   | Make sure this repo is for you  | 10 minutes                |
 | [1](day1/README.md)   | Research topic  | 3 hours                |
 | [2](day2/README.md)   | Write script    | 2 hours                |
 | [3](day3/README.md)   | Practice script | 2 hours                |
@@ -21,6 +22,7 @@ I've setup the format so you can start any day, and take it day by day, until yo
 Each day will have a guide and a worksheet. I've made the worksheets are abstract as possible, so you can continue using them as you go and customize them to your needs. Remember, making a video is way more about planning and getting your idea down, than actually recording and editing.
 
 Each guide will contain tips and tricks to help you with the tasks of the day. These guides are the ones I'll most likely update as I learn new things.
+
 ## Questions
 
 [tweet me](https://twitter.com/madebygps) or
