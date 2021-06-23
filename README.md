@@ -10,7 +10,7 @@ I've setup the format so you can start any day, and take it day by day, until yo
 
 | Day | Task            | Time commitment        |
 |-----|-----------------|------------------------|
-| [1](day1/README.md)   | Research topic  | 2 hours                |
+| [1](day1/README.md)   | Research topic  | 3 hours                |
 | [2](day2/README.md)   | Write script    | 2 hours                |
 | [3](day3/README.md)   | Practice script | 2 hours                |
 | [4](day4/README.md)   | Record          | 1 hour                 |
@@ -23,7 +23,8 @@ Each day will have a guide and a worksheet. I've made the worksheets are abstrac
 Each guide will contain tips and tricks to help you with the tasks of the day. These guides are the ones I'll most likely update as I learn new things.
 ## Questions
 
-[tweet me](https://twitter.com/madebygps)
+[tweet me](https://twitter.com/madebygps) or
+Add an issue to this repo :)
 
 ## Okay, go get started
 
