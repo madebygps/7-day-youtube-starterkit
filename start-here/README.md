@@ -16,15 +16,28 @@ Further more, I'll try to build this so your time commitment and necessary gear 
 
 Please do not rush to Amazon and purchase brand new gear, you might already have everything you need. The most basic setup and GOOD ENOUGH includes:
 
-- Camera.
+- Camera and maybe a camera mic.
 - Microphone.
 - Laptop.
+- Tripod (could also use a stack of books, but you can find decent tripods for ~ 20 USD)
 
-### Camera
+### Camera and camera mic
+
+You'll use these for your non demo footage. Intros and conclusions and such. 
 
 Chances are you already have a usb webcam. Most are decent and can record in HD. This is good enough for your first videos. Again, the goal here is to build momentum, I find that new gear is fun but usually kills momentum because I have to spend time learning it. I think my first 15 videos were recorded with a Logitech c920.
 
+If you're using a webcam, you'll use your USB or XLR mic to record audio.
+
 If you don't have a webcam, you probably have a phone with a decent camera. You can use that.
+
+If you are using an external camera, you'll need a microphone for it because the mics on cameras are TERRIBLE.
+
+[Check out this video for affordable options](https://youtu.be/MUSIfUlOjYA). Most camera support an external microphone via a mic jack, but double check please and if you're using a phone, you might need an adapter, so verify that too.
+
+### Tripod
+
+You can find decent tripods for ~ 25 USD, so I think it's a no brainer owning one if you are going to use a camera that isn't a webcam. There are so many options, I have one from amazon I got 4 years ago for $20 and it still works great. Time for some googling :)
 
 ### Microphone
 
@@ -32,11 +45,11 @@ Do you have a external microphone? If so, great move to the next step, if not, l
 
 First of all, decent audio is important, even more important than decent video.
 
-You might have a pair of good headphones that have a microphone, you can try that.
+You might have a pair of good headphones that have a microphone, you can try that. It's all about trial and error here and it can get frustrating. 
 
 Here's the tricky part, I don't want to tell you what to buy, and with audio there are so many options. All I can say is you'll need a microphone and USB mics have less of a learning curve than xlr mics (these require audio interfaces).
 
-[Take a look at this video](https://www.youtube.com/watch?v=jApDthzDql0) it has solid options for every budget. Once you have one, move on. 
+[Take a look at this video](https://www.youtube.com/watch?v=jApDthzDql0) it has solid options for every budget. Once you have one, move on.
 
 ### Software
 
