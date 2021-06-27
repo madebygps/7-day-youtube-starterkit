@@ -53,7 +53,7 @@ Here's the tricky part, I don't want to tell you what to buy, and with audio the
 
 ### Software
 
-You'll need something to record your screen and to edit videos with.
+You'll need something to record your screen, video editor, and something to make Thumbnails with.
 
 #### Screen recording
 
@@ -64,6 +64,12 @@ There are many options but the one I use, I love, and is free, [OBS](https://obs
 Another area with endless options, my recommendation is DaVinci resolve, it's free and very capable, you most likely won't ever need to upgrade to anything because it's already top tier. Here is a solid [tutorial](https://www.youtube.com/watch?v=63Ln33O4p4c).
 
 If you already edit video and have a software you enjoy, continue using that, no need to change.
+
+#### Thumbnail creator
+
+My suggestion here is [Canva](https://www.canva.com/create/youtube-thumbnails/) it's great and has a free tier.
+
+Something like Adobe XD, Photoshop, etc, will also work. 
 
 ## Time commitment
 
