@@ -22,9 +22,13 @@ Pay attention to how you feel and what you sound like. The first time you might 
 
 ### 2. Practice the intro and the conclusion
 
-Since these are shorter sections, I would advise to practice these a few more times. I also thing these sections are great places to connect with your audience a little more. When you're recording your demo, you can have your script opened on another screen outside of your recording area and sort of use it as a cheat sheet if you forget something. In your intro and conclusion, you can't do this, since you're recording yourself and not the screen. You could use a teleprompter, personally I think that's excessive.
+Since these are shorter sections, I would advise to practice these a few more times. I also think these sections are great places to connect with your audience a little more. When you're recording your demo, you can have your script opened on another screen outside of your recording area and sort of use it as a cheat sheet if you forget something. In your intro and conclusion, you can't do this, since you're recording yourself and not the screen. You could use a teleprompter, but personally I think that's excessive.
 
 With these sections, act like you're on a zoom with a friend. Allow yourself to be yourself, that's what connects with the people. If you talk with your hands, allow that to be part of your video. If you smile a lot, allow that to be part of your video.
+
+Aim for you intro to tell the viewer EXACTLY what they are going to get out of your video and it's also a good time to remind them to like and subscribe :)
+
+I've been defining my own intros and have settled on [this style](https://www.youtube.com/watch?v=iBuG_SazpNo) ends at 1:20.
 
 > **Action step:** Go practice your intro and conclusion, at least 3 times.
 

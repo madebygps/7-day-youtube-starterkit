@@ -4,11 +4,11 @@ Time to write the script. How detailed your scripts are is up to you. At the beg
 
 - **Time commitment:** You'll need about 2-3 hours for this. 
 
-- **Tools you'll need:** The same notes you used in the first day.
+- **Tools you'll need:** The notes you made in the first day.
 
 ## Goal of this Day
 
-Write a script for you video. Make sure it sounds like you and covers what you want to cover.
+Write a script for you video. Make sure it sounds like you and covers what you outlined.
 
 ## Steps
 
@@ -50,7 +50,7 @@ In your conclusion, summarize your video, inform the viewers on any updates or n
 
 ### 3. Make sure your script sounds like you
 
-This might sound obvious: tere is nothing that hasn't been explained or covered. The uniqueness is you, your voice, and your way of explaining things. You'll find your style as you make more videos, but with every script you right, ask yourself, does this sound like me?
+This might sound obvious: there is nothing that hasn't been explained or covered. The uniqueness is you, your voice, and your way of explaining things. You'll find your style as you make more videos, but with every script you write, ask yourself, does this sound like me?
 
 ### 4. That's it!
 

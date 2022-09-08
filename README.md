@@ -19,7 +19,7 @@ I've setup the format so you can start any day, and take it day by day, until yo
 | [6](day6/README.md)   | Publish         | 30 min                 |
 | [7](day7/README.md)   | Rest            | as much as you need :) |
 
-Each day will have a guide and a worksheet. I've made the worksheets are abstract as possible, so you can continue using them as you go and customize them to your needs. Remember, making a video is way more about planning and getting your idea down, than actually recording and editing.
+Each day will have a guide and a worksheet. I've made the worksheets as abstract as possible, so you can continue using them as you go and customize them to your needs. Remember, making a video is way more about planning and getting your idea down, than actually recording and editing.
 
 Each guide will contain tips and tricks to help you with the tasks of the day. These guides are the ones I'll most likely update as I learn new things.
 

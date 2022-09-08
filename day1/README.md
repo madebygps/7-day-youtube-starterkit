@@ -18,7 +18,7 @@ Research your topic enough so that you can accomplish the task you want to demon
 
 ### 1. Pick your topic
 
-I find that this is where most people get stuck. "What am I even going to talk about?" The good news is you don't have to come up with some unique brand new idea because nothing is new on the internet. It's more important to focus on how you are delivering versus what you are! Try to keep the topic specific, because you'll use it for your video title and thumbnail later on, and it'll help keep the scope and length of the video shorter.
+I find that this is where most people get stuck. "What am I even going to talk about?" The good news is you don't have to come up with some unique brand new idea because nothing is new on the internet. It's more important to focus on how you are delivering! Try to keep the topic specific, because you'll use it for your video title and thumbnail later on, and it'll help keep the scope and length of the video shorter.
 
 - Instead of trying to cover an entire introduction to javascript, how about focusing an introduction to functions in javascript?
 - Instead of trying Azure Functions, how about a specific binding?
