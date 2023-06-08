@@ -4,7 +4,9 @@ Time to write the script. How detailed your scripts are is up to you. At the beg
 
 - **Time commitment:** You'll need about 2-3 hours for this. 
 
-- **Tools you'll need:** The notes you made in the first day.
+- **Tools you'll need:** 
+    - The notes you made in the first day.
+    - Try using ChatGPT to generate a script for you from your notes. I find this to be a great starting point. 
 
 ## Goal of this Day
 

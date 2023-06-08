@@ -6,7 +6,7 @@ You will rarely see me talk about metrics, that isn't my purpose. The goal of th
 
 ## Motivation
 
-At the beginning no one will watch you, no one will share, and no one will care. Accept it and realize that it's actually a good thing. When you're getting started, you have all the creative freedom to figure your content and style out. As you grow, your audience will have certain expectations and you'll have to balance creating what you want and what they want. When you start, you have none of that, you're just making, and that's true liberty right there :)
+At the beginning no one will watch you, no one will share, and no one will care. Accept it and realize that it's actually a good thing. When you're getting started, you have all the creative freedom to figure your content and style out. As you grow, your audience will have certain expectations and you'll have to balance creating what you want and what they want. When you start, you have none of that, you're just making, and that's true freedom right there :)
 
 However, I know without people watching and providing feedback, it's hard to stay motivated. You'll be thinking "is it even worth it" or "I put in so much work and no one is watching". These thoughts are normal. Whenever I get into this state of mind (and yes no matter where you are at in your journey, you'll have these thoughts) I remind myself of the previous step, purpose. I'm building my video portfolio of knowledge, and no matter who watches, nothing can stop it, but myself.
 
@@ -23,13 +23,13 @@ Please do not rush to Amazon and purchase brand new gear, you might already have
 
 ### Camera and camera mic
 
-You'll use these for your non demo footage. Intros and conclusions and such. 
+You'll use these for your non demo footage. Intros/conclusions and such. 
 
-Chances are you already have a usb webcam. Most are decent and can record in HD. This is good enough for your first videos. Again, the goal here is to build momentum, I find that new gear is fun but usually kills momentum because I have to spend time learning it. I think my first 15 videos were recorded with a Logitech c920.
+Chances are you already have a usb webcam. Most are decent and can record in HD. This is good enough for your first few videos. Again, the goal here is to build momentum, I find that new gear is fun but usually kills momentum because I have to spend time learning it. I think my first 15 videos were recorded with a Logitech c920 webcam.
 
 If you're using a webcam, you'll use your USB or XLR mic to record audio.
 
-If you don't have a webcam, you probably have a phone with a decent camera. You can use that.
+If you don't have a webcam, you probably have a phone with a decent camera. You can use that. 
 
 If you are using an external camera, you'll need a microphone for it because the mics on cameras are TERRIBLE.
 
@@ -37,7 +37,7 @@ If you are using an external camera, you'll need a microphone for it because the
 
 ### Tripod
 
-You can find decent tripods for ~ 25 USD, so I think it's a no brainer owning one if you are going to use a camera that isn't a webcam. There are so many options, I have one from amazon I got 4 years ago for $20 and it still works great. Time for some googling :)
+You can find decent tripods for ~ 25 USD, so I think it's a no brainer owning one if you are going to use a camera that isn't a webcam. There are so many options, I have one from amazon I got 4 years ago for $20 and it still works great.
 
 ### Microphone
 

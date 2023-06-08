@@ -4,9 +4,9 @@ I'm going to be referencing [this video of mine](https://youtu.be/p0zgKoxpu24) t
 
 - **Time commitment:** You'll need about 2-3 hours for this. For best results, pick a topic you are familiar with, it's the simplest way to get started, because you'll have to research less and you'll be more confident with your delivery.
 
-- **Tools you'll need:** Somewhere to take notes
-
-    It's a good idea to have one area where you have all the research for your videos. Perhaps that's a github repo, or maybe you use something like OneNote, EverNote, Notion, Apple Notes, maybe even good old pen and paper. I personally have a private GitHub repo called video-notes and title each markdown document with the name of the video, but you can use whatever you'd like.
+- **Tools you'll need:** 
+    - Somewhere to take notes. It's a good idea to have one area where you have all the research for your videos. Perhaps that's a github repo, OneNote, EverNote, Notion, Apple Notes, maybe even good old pen and paper.
+    - ChatGPT. As of 2023, I've been using ChatGPT to generate ideas, research and more. It's cut my research time down significantly. I highly recommend you leverage it as well.
 
 ## Goal of this Day
 
@@ -18,7 +18,7 @@ Research your topic enough so that you can accomplish the task you want to demon
 
 ### 1. Pick your topic
 
-I find that this is where most people get stuck. "What am I even going to talk about?" The good news is you don't have to come up with some unique brand new idea because nothing is new on the internet. It's more important to focus on how you are delivering! Try to keep the topic specific, because you'll use it for your video title and thumbnail later on, and it'll help keep the scope and length of the video shorter.
+I find that this is where most people get stuck. "What am I even going to talk about?" The good news is you don't have to come up with some unique idea because nothing is new on the internet. It's more important to focus on how you are delivering! Try to keep the topic specific, because you'll use it for your video title and thumbnail later on, and it'll help keep the scope and length of the video shorter.
 
 - Instead of trying to cover an entire introduction to javascript, how about focusing an introduction to functions in javascript?
 - Instead of trying Azure Functions, how about a specific binding?
@@ -32,7 +32,7 @@ You get my point, don't kill your momentum right from the start by picking a top
   
 ### 2. Research topic and resources
 
-> **Action step:** Create a new note/document (whatever you are using for your video notes) and add 4 headers: Intro, Demo, Conclusion, Resources. We're going to first work on the demo part. The intro and conclusion will come to us easier once we know what we are showing..
+> **Action step:** Create a new note/document (whatever you are using for your video notes) and add 4 headers: Intro, Demo, Conclusion, Resources. We're going to first work on the demo part. The intro and conclusion will come to us easier once we know what we are showing.
 
 Like I mentioned, I'm going to be referencing my [Integrate Azure functions with Azure KeyVault](https://youtu.be/p0zgKoxpu24) video.
 

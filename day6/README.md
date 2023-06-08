@@ -16,20 +16,29 @@ Go to your YouTube channel and upload the video, as it uploads you can create yo
 
 > **Action step:** Upload the video to YouTube
 
-### 2. Create your thumbnail
+### 2. Create your title and thumbnail
 
-If you are using Canva, there are plenty of templates you can use. Pick one of those. I like to grab a screenshot of my face and of my screen to fill in the thumbnail. This is really up to you. Here are some examples of mine.
+Think of your title and thumbnail as trailers to your youtube video. Use them to build intrigue and don't repeat the same information in them. Check out the thumbnail and title of [this video](https://www.youtube.com/watch?v=hgs8oSIjf7A).
 
-![my first video thumbnail](img/thumb1.jpeg)
-![my first video thumbnail](img/thumb2.jpeg)
+- Title: Stop wasting time with cloud courses and tutorials
+- Thumbnail: A screenshot of the github repo I talk about in the video and a text that states "do this instead" with a green check mark.
+- Content of the video: Building projects is a better way to learn cloud computing instead of always consuming courses and tutorials.
 
-> **Action step:** Create your thumbnail
+These 2 put together suggests that there is an issue (wasting time with courses and tutorials) but also suggests that a solution will be provided (with the thumbnail). This is what will get people to click on your video. Just make sure the content of the video satisfies the title, if not people will label you as clickbait. 
+
+Leverage ChatGPT here, prompt it to generate "Ideas for YouTube video titles that are 60-70 characters, intriguing, about...) Where about = the content in your video.
+
+If you are using Canva, there are plenty of templates you can use to get started.
+
+> **Action step:** Create your thumbnail and title
 
 ### 2. Fill in details of your video
 
-Now it's time for you to fill in the title, description, and more. There's a lot in here, and to be 100% honest, I don't do it all. I just make sure my title is descriptive and honest, my description contains the chapters of the video, resources, and my social links, and I'll add end cards.
+Now it's time for you to fill in the title, description, and more. Make sure you create timestamps for your video and put them in the description. 
 
-Take a look at the description of [this video](https://www.youtube.com/watch?v=p0zgKoxpu24) for an idea of what I do.
+Use cards to point your viewers to related content. 
+
+Take a look at the description of [this video](https://www.youtube.com/watch?v=kVO75iNc5XI) for an idea of what I do.
 
 If you want to learn way more about things you can set on your video, [check this tutorial out](https://youtu.be/tuH25VRn2k4)
 
